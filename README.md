@@ -49,3 +49,12 @@ As I'm and all others involved are students, we have a limited amount of time to
 - Completing all initial stats of the 100's of Digimons
 - Wraping up the Story
 - Creation of the first few maps
+
+# Credits
+
+This project counts with the help of many people who are available on the Internet to help others, make tutorials, graphics, scripts and so many others! Thank you all! Would like to thanks individually those ones:
+- Aki
+- Deo
+- Elite Battle System
+- Pokémon Essentials
+- WesleyFG
