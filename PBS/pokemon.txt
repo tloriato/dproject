@@ -218,7 +218,7 @@ RegionalNumbers=8,238
 Kind=Turtle
 Pokedex=Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.
 BattlerPlayerY=0
-BattlerEnemyY=15
+BattlerEnemyY=32
 BattlerAltitude=0
 Evolutions=BLASTOISE,Level,36
 [9]
@@ -1121,7 +1121,7 @@ RegionalNumbers=40,45
 Kind=Balloon
 Pokedex=Its fur is the ultimate in luxuriousness. Sleeping alongside a Wigglytuff is simply divine. Its body expands seemingly without end when it inhales.
 BattlerPlayerY=0
-BattlerEnemyY=13
+BattlerEnemyY=55
 BattlerAltitude=0
 Evolutions=
 [41]
@@ -15914,4 +15914,4 @@ Pokedex=When attacked, it uses its feathers to splash water, escaping under cove
 BattlerPlayerY=0
 BattlerEnemyY=21
 BattlerAltitude=0
-Evolutions=SWANNA,Level,35
+Evolutions=
