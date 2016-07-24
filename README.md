@@ -58,3 +58,4 @@ This project counts with the help of many people who are available on the Intern
 - Elite Battle System
 - Pokémon Essentials
 - WesleyFG
+- shiney570
