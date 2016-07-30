@@ -1,3 +1,4 @@
+This project is still very very early on. You may catch up here on Github or sending a message to **/u/sn0wr4in**
 # D-Project
 
 **D-Project** is a Digimon Project built with **RPG Maker XP &amp; Pokemon Essentials**. It aims to deliver an unique experience for the Digimon Community. Since long fans have been waiting a good game that captures the abundance of the Digimon's World from Bandai. It's my opinion that they have failed over these past years. Sure enough, a lot of projects similar to this one have been started on the internet, but I'm hoping to make things different this time. 
@@ -30,12 +31,17 @@ Gameplay Features:
 - Pokedex to be replaced with **Digivice**, which may or may not be complete with all relevant info at the beginning (to be discussed).
 - **Full Digivolution System**, faithful to the Series and Games.
     - Slime, In-Training, Rookie, Champion, Ultimate &amp; Mega will be available
+    - Mega evolution will be temporaly in Battle, like MEGA evolutions in Pokémon X/Y
     - **Multiple possibilities of evolution** from a single Digimon, based on a series of factors.
+    - Multiple branches of Evolution
 - **Animated Battle System**: 
     - Customized but faithful to the Pokemon Style. 
     - This will be provided by the [Elite Battle System](www.pokecommunity.com/showthread.php?t=343665).
 - "Digimon Daycare" will produce Digieggs, if possible.
 - Possible **"Fossil Digimon"**.
+- **New Map**s and **Questions** to be **unlocked** using **DigiData** adquired through the game.
+    - Complete the remaining parts of the maps with it!
+    - Inspired by **Digimon Frontier**
 
 # Story
 
