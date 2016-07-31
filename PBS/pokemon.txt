@@ -2,7 +2,6 @@
 Name=Botamon
 InternalName=BOTAMON
 Type1=NONE
-Type2=NONE
 BaseStats=45,49,49,45,65,65
 GenderRate=Genderless
 GrowthRate=Parabolic
@@ -1784,7 +1783,7 @@ RegionalNumbers=63,89
 Kind=Psi
 Pokedex=A Pokémon that sleeps 18 hours a day. Observation revealed that it uses Teleport to change its location once every hour.
 WildItemUncommon=TWISTEDSPOON
-BattlerPlayerY=0
+BattlerPlayerY=-15
 BattlerEnemyY=-2
 BattlerAltitude=0
 Evolutions=KADABRA,Level,16

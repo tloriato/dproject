@@ -106,3 +106,15 @@ InternalName=PSYCHIC
 [26]
 Name=Ice
 InternalName=ICE
+
+[27]
+Name=Fire
+InternalName=FIRE
+
+[28]
+Name=Water
+InternalName=WATER
+
+[29]
+Name=Electric
+InternalName=ELECTRIC
