@@ -1,4 +1,4 @@
-This project is still very very early on. You may catch up here on Github or sending a message to **/u/sn0wr4in**
+This project is moving to another plataform. If everything goes right, you won't heard about it here anymore. You may catch up here on Github or sending a message to **/u/sn0wr4in**
 # D-Project
 
 **D-Project** is a Digimon Project built with **RPG Maker XP &amp; Pokemon Essentials**. It aims to deliver an unique experience for the Digimon Community. Since long fans have been waiting a good game that captures the abundance of the Digimon's World from Bandai. It's my opinion that they have failed over these past years. Sure enough, a lot of projects similar to this one have been started on the internet, but I'm hoping to make things different this time. 
